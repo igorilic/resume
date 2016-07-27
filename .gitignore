@@ -1,0 +1,7 @@
+*.aux
+*.log
+*.out
+
+# vim temp files
+*.*~
+resize-pane
