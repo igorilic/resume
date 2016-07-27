@@ -1,0 +1,47 @@
+%----------------------------------------------------------------------------------------
+%	SECTION TITLE
+%----------------------------------------------------------------------------------------
+
+\cvsection{Experience}
+
+%----------------------------------------------------------------------------------------
+%	SECTION CONTENT
+%----------------------------------------------------------------------------------------
+
+\begin{cventries}
+
+%------------------------------------------------
+
+\cventry
+{Software Engineer} % Job title
+{Energodata} % Organization
+{Belgrade, Republic of Serbia} % Location
+{2014-present} % Date(s)
+{ % Description(s) of tasks/responsibilities
+\begin{cvitems}
+\item {Construction and implementation a Post office Information System for "Pošte Srpske", Banja Luka, Bosnia and Herzegovina}
+\item {Project was done in .Net technology with MVC Web API 2, Entity Framework, SQL Server, RabbitMQ and AngularJS SPA with Bootstrap for the frontend}
+\item {Developer for both the frontend and the backend}
+\item {Wrote the project documentation}
+\end{cvitems}
+}
+
+%------------------------------------------------
+
+\cventry
+{Math and Computer Science Teacher} % Job title
+{Pharmaceutical Highschool} % Organization
+{Belgrade, Republic of Serbia} % Location
+{2011-2014} % Date(s)
+{ % Description(s) of tasks/responsibilities
+\begin{cvitems}
+\item {Teaching students basic programming skills}
+\item {Develop school website in Jquery and AJAX}
+\end{cvitems}
+}
+
+%------------------------------------------------
+
+
+
+\end{cventries}

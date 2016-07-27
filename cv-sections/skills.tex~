@@ -1,0 +1,33 @@
+%----------------------------------------------------------------------------------------
+%	SECTION TITLE
+%----------------------------------------------------------------------------------------
+
+\cvsection{Skills}
+
+%----------------------------------------------------------------------------------------
+%	SECTION CONTENT
+%----------------------------------------------------------------------------------------
+
+\begin{cvskills}
+
+%------------------------------------------------
+
+\cvskill
+{Programming} % Category
+{JavaScript, TypeScript, Python, Node.JS, LaTeX, Gulp, MongoDB, SQL, Git, Bash, C\#} % Skills
+
+%------------------------------------------------
+
+\cvskill
+{Web Backend} % Category
+{Express with Node.JS, Django with Python, ASP.Net, Web API 2, MeteorJS} % Skills
+
+%------------------------------------------------
+
+\cvskill
+{Web Frontend} % Category
+{AngularJS, Ionic, HTML5, CSS, LESS, SASS, Bootstrap, Material} % Skills
+
+%------------------------------------------------
+
+\end{cvskills}
